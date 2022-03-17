@@ -1,5 +1,5 @@
 # Múltiplos de 3 e 5
-Retorna a soma de todos os números múltiplos de 3 e 5, abaixo do número fornecido.
+Desafio: Calcule a soma de todos os múltiplos de 3 ou 5 menor que o parâmetro number.
 ## Linguagem
 JavaScript
 ## Conteúdos abordados
